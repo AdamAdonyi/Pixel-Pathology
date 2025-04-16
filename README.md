@@ -44,9 +44,9 @@ These findings suggest that our model may be learning from dataset biases (such 
 
 ## Contributors
 
-Nina Kirchmayr
-Georgi Georgiev
-Adam Adonyi
+- Nina Kirchmayr
+- Georgi Georgiev
+- Adam Adonyi
 
 
 ## Extra info:
