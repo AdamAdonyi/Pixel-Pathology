@@ -13,7 +13,7 @@ The dataset was sourced from Kaggle (Chest X-ray Dataset - 4 Categories) and con
 We trained a ConvNeXt Tiny model using PyTorch, achieving over 98% accuracy on the validation set. This high accuracy prompted us to investigate the basis of the classification decisions.
 Explainability Techniques
 This repository focuses on three key explainability methods:
-##LIME (Local Interpretable Model-agnostic Explanations)
+## LIME (Local Interpretable Model-agnostic Explanations)
 The LIME implementation:
 
 Uses 'quickshift' segmentation algorithm to divide images into interpretable segments
