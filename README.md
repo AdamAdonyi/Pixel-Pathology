@@ -18,7 +18,7 @@ We trained a [ConvNeXt Tiny model](https://drive.google.com/file/d/1JAc10f0ePurT
 
 
 
-## LIME (Local Interpretable Model-agnostic Explanations) - notebook included to the repo
+## LIME (Local Interpretable Model-agnostic Explanations) - code included to the repo
 The LIME implementation:
 
 Uses 'quickshift' segmentation algorithm to divide images into interpretable segments
