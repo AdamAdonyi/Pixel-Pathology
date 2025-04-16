@@ -16,10 +16,9 @@ We trained a ConvNeXt Tiny model using PyTorch, achieving over 98% accuracy on t
 
 
 
-Explainability Techniques
-This repository focuses on three key explainability methods:
 
-## LIME (Local Interpretable Model-agnostic Explanations)
+
+## LIME (Local Interpretable Model-agnostic Explanations) - notebook included to the repo
 The LIME implementation:
 
 Uses 'quickshift' segmentation algorithm to divide images into interpretable segments
