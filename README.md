@@ -11,8 +11,14 @@ The dataset was sourced from Kaggle (Chest X-ray Dataset - 4 Categories) and con
 
 ## Model
 We trained a ConvNeXt Tiny model using PyTorch, achieving over 98% accuracy on the validation set. This high accuracy prompted us to investigate the basis of the classification decisions.
+
+<img src="https://github.com/AdamAdonyi/Pixel-Pathology/blob/main/impressive.png">
+
+
+
 Explainability Techniques
 This repository focuses on three key explainability methods:
+
 ## LIME (Local Interpretable Model-agnostic Explanations)
 The LIME implementation:
 
