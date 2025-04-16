@@ -33,18 +33,12 @@ The LIME implementation:
 ## Key Findings
 Our explainability analysis revealed concerning patterns:
 
-Most influential segments identified by LIME were often outside the body or focused on edges/external objects
-SHAP highlighted shoulders and bone structures rather than lung tissue
-GradCAM showed focus on upper torso, areas above shoulders/neck, and image edges
-Limited focus on clinically relevant lung features across all methods
+- Most influential segments identified by LIME were often outside the body or focused on edges/external objects
+- SHAP highlighted shoulders and bone structures rather than lung tissue
+- GradCAM showed focus on upper torso, areas above shoulders/neck, and image edges
+- Limited focus on clinically relevant lung features across all methods
 
 These findings suggest that our model may be learning from dataset biases (such as annotations, positioning, or image artifacts) rather than actual medical features relevant to the diseases.
-Repository Structure
-
-notebooks/: Contains Jupyter notebooks for LIME
-
-presentation/: Project presentation slides
-
 
 
 
