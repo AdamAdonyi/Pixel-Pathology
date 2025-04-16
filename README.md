@@ -10,7 +10,7 @@ The dataset was sourced from Kaggle (Chest X-ray Dataset - 4 Categories) and con
 576 COVID-19
 
 ## Model
-We trained a ConvNeXt Tiny model using PyTorch, achieving over 98% accuracy on the validation set. This high accuracy prompted us to investigate the basis of the classification decisions.
+We trained a [ConvNeXt Tiny model](https://drive.google.com/file/d/1JAc10f0ePurTefCLmrOUOgBfT4AlIyq_/view?usp=share_link) using PyTorch, achieving over 98% accuracy on the validation set. This high accuracy prompted us to investigate the basis of the classification decisions.
 
 <img src="https://github.com/AdamAdonyi/Pixel-Pathology/blob/main/impressive.png">
 
