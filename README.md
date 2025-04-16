@@ -1,7 +1,7 @@
-# Pixel Pathology: Machine Learning Meets Medical Imaging - AI MSC PROGRAM - 2024WS
+# Pixel Pathology: Machine Learning Meets Medical Imaging - Challenge of AI MSC PROGRAM - 2024WS
 ## Project Overview
 This project explores the application of machine learning in medical imaging, specifically focusing on the classification of chest X-rays into four categories: Normal, COVID-19, Pneumonia, and Tuberculosis. While our ConvNeXt model achieved remarkable accuracy (>98%), we applied various explainability techniques (LIME, SHAP, and GradCAM) to determine whether the model is identifying genuine medical features or potential biases in the dataset.
-Dataset
+## Dataset
 The dataset was sourced from Kaggle (Chest X-ray Dataset - 4 Categories) and contains 7,132 chest X-ray images distributed across four categories:
 
 1,583 Normal
