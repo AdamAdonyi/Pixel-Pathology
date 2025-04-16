@@ -21,10 +21,10 @@ We trained a [ConvNeXt Tiny model](https://drive.google.com/file/d/1JAc10f0ePurT
 ## LIME (Local Interpretable Model-agnostic Explanations) - code included to the repo
 The LIME implementation:
 
-Uses 'quickshift' segmentation algorithm to divide images into interpretable segments
-Generates 500 perturbed samples per image to understand local behavior
-Identifies the top features contributing to classification decisions
-Visualizes segment-level importance with color-coded heatmaps
+- Uses 'quickshift' segmentation algorithm to divide images into interpretable segments.
+- Generates 500 perturbed samples per image to understand local behavior.
+- Identifies the top features contributing to classification decisions.
+- Visualizes segment-level importance with color-coded heatmaps.
 
 ## SHAP (SHapley Additive exPlanations) - code is not shown
 
