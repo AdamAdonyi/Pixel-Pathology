@@ -40,18 +40,17 @@ notebooks/: Contains Jupyter notebooks for LIME
 
 presentation/: Project presentation slides
 
-## How to Use
-
-Run the notebooks to reproduce our results or apply the techniques to your own models
 
 
-Contributors
+
+## Contributors
 
 Nina Kirchmayr
 Georgi Georgiev
 Adam Adonyi
 
 
+## Extra info:
 
 Dataset provided by Kaggle user pritpal2873
 ConvNeXt architecture by Facebook AI Research
